@@ -11,7 +11,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/shahnoor23/argocd-image-updater.git
+    repoURL: https://github.com/shahnoor23/nginx-image-updater.git
     targetRevision: HEAD
     path: dev
   destination: 
